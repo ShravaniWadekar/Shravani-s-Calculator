@@ -6,3 +6,4 @@
 2.Key Features: Includes buttons for clear (AC), delete (DEL), decimal, percentage, and double zero (00), with real-time calculation.
 
 3.Future Enhancements: Potential improvements include adding keyboard support, more mathematical functions, and enhancing the design with animations.
+https://github.com/user-attachments/assets/58ff5c04-86d9-4916-a3c1-012b99ecedcb
